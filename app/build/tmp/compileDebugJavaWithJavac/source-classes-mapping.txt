@@ -1,0 +1,21 @@
+com/example/calculator1/MainActivity.java
+ com.example.calculator1.MainActivity
+ com.example.calculator1.MainActivity$1
+ com.example.calculator1.MainActivity$10
+ com.example.calculator1.MainActivity$11
+ com.example.calculator1.MainActivity$12
+ com.example.calculator1.MainActivity$13
+ com.example.calculator1.MainActivity$14
+ com.example.calculator1.MainActivity$15
+ com.example.calculator1.MainActivity$16
+ com.example.calculator1.MainActivity$17
+ com.example.calculator1.MainActivity$2
+ com.example.calculator1.MainActivity$3
+ com.example.calculator1.MainActivity$4
+ com.example.calculator1.MainActivity$5
+ com.example.calculator1.MainActivity$6
+ com.example.calculator1.MainActivity$7
+ com.example.calculator1.MainActivity$8
+ com.example.calculator1.MainActivity$9
+com/example/calculator1/BuildConfig.java
+ com.example.calculator1.BuildConfig
